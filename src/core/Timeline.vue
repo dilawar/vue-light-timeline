@@ -70,7 +70,7 @@ $orange: #ed9153;
 $yellow: #fbd157;
 $font-color: #606c76;
 $font-size: 14px;
-$left-pad: 5rem;
+$left-pad: 6rem;
 $item-pad: 1rem;
 $icon-size: 16px;
 $sm-icon-size: 10px;
