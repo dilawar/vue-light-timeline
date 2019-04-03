@@ -166,7 +166,7 @@ $colors: (
   .item-tag {
     position: absolute;
     left: -($left-pad + 1rem);
-    width: 65px;
+    width: 70px;
     text-align: center;
     color: lighten($font-color, 20%);
     font-size: $font-size/1.2;
